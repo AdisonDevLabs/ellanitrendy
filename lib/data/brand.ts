@@ -18,7 +18,7 @@ export const brand = {
     badge: "7K+ Followers on TikTok ✨",
     headlineTop: "STEP OUT IN",
     headlineHighlight: "ELEGANCE",
-    backgroundImage: "/Nike Air Sport Sneaker.png1000678458.png", 
+    backgroundImage: "/Nike Air Sport Sneaker.png", 
     ctaPrimary: "Order on WhatsApp",
     ctaSecondary: "Shop Collection",
   },
